@@ -9,12 +9,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.arjs-loader div {
-    text-align: center;
-    font-size: 1.25em;
-    color: white;
+    font-family: 'Chewy', cursive;
+    color: yellow;
 }
 
 .a-loader-title {
